@@ -1,0 +1,5 @@
+# cmake build cache
+./cmake-build-*
+
+# ij project files
+./.idea
